@@ -1,3 +1,3 @@
 # nitda-blockchain-scholarship
-no
+Course materials for the NITDA Blockchain Scholarship
 
